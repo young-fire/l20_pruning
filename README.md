@@ -29,4 +29,7 @@ sh feature_gen.sh
 ```bash
 cd l20_pruning && sh run.sh
 
-###
+## Implementation Details
+
+*   **Cross-rank code**: Located in `std_layer.py`
+*   **L20 sparse reconstruction code**: Located in `120.py`
