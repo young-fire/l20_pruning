@@ -26,4 +26,4 @@ cd l20_pruning && sh run.sh
 ## Implementation Details
 
 *   **Cross-rank code**: Implemented  in `std_layer.py`
-*   **L20 sparse reconstruction code**: Implemented  in `120.py`
+*   **l20 sparse reconstruction code**: Implemented  in `120.py`
