@@ -1,0 +1,1 @@
+python feature_generation.py --dataset imagenet --data_dir imagenet --pretrain_dir model_pt/resnet_50.pth --arch resnet_50 --limit 10 --rank_conv_dir feature --gpu 0
